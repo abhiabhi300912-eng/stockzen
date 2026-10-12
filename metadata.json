@@ -1,0 +1,7 @@
+{
+  "name": "StockZen AI Terminal",
+  "description": "Institutional-grade quantitative intelligence terminal combining FinBERT sentiment analysis, technical telemetry, and neural ensemble predictive models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
